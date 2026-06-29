@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧰 MCP Client
+# 🧰 MCP Server
 
-### AI-Powered Multi-Server MCP Client
+### AI-Powered Multi-Server MCP Server
 
 Connect Local & Remote MCP Servers using LangChain, Streamlit and OpenRouter
 
